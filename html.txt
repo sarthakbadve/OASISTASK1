@@ -1,0 +1,210 @@
+https://javabykiran.in/corejava/JBKCORE9006-scanner-class-logical.pdf  
+https://javabykiran.in/corejava/JBKCORE9009-control-statements.pdf
+https://javabykiran.in/corejava/JBKCORE9008-accessspacifier.pdf
+https://javabykiran.in/corejava/JBKCORE9007-package.pdf 
+https://javabykiran.in/corejava/JBKCORE90011-Inheritance.pdf
+https://javabykiran.in/placement/PlacementQuestions.pdf
+https://javabykiran.in/corejava/JBKCORE90012-polymorphism.pdf.........................Overriding and dynamic dispatch
+https://javabykiran.in/corejava/JBKCORE90010-constructor-super-this.pdf
+https://javabykiran.in/corejava/JBKCORE90014-final-static.pdf
+https://javabykiran.in/corejava/JBKCORE90025-encapsulation.pdf
+https://javabykiran.in/corejava/JBKCORE90015-exception.pdf
+https://javabykiran.in/corejava/JBKCORE90026-collection.pdf
+
+
+
+encapsulation
+
+friend function
+static specifier
+getter setter
+super this ................
+jar......
+interface abstract classs............
+
+1.scanner
+2.control statement
+3.method calling 
+4.access specifier
+5.package
+6.inheritance
+7.logical que
+8.star patterns
+9.overloading
+           } polumorphism
+10.over riding
+11.constructor
+12.super 
+13.this
+14.static final
+15.jar file
+16.getter setter
+17.encapsulation
+18.abstraction
+19.interface
+20.Arrays
+21.Collection framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------
+
+package
+inheritance
+method calling
+scanner
+access specifier
+
+
+
+
+
+
+
+{---------------------------------------
+project 
+collection framework
+
+10 methods identification box
+-------------------------------}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+php half and more;
+script revise and project;
+Mysql revise and study;
+Css ......
+python......
+java going............
+react..............
+node...........
+
+
+connections to database 
+
+
+
+
+
+
